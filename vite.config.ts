@@ -4,7 +4,7 @@ import path from 'path'
 
 export default defineConfig({
 // ВАЖНО для GitHub Pages (Project Pages):
-base: '/Englishcoursefigma/',
+base: '/Coursefigma/',,
 
 plugins: [react()],
 resolve: {
