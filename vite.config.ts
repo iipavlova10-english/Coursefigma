@@ -17,4 +17,4 @@ export default defineConfig({
     },
   },
   assetsInclude: ['**/*.svg', '**/*.csv'],
-})
+})fix: add base path for GitHub Pages
